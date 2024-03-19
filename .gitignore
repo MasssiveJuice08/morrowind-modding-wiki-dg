@@ -11,3 +11,9 @@ src/site/styles/_theme.*.css
 .cache
 _site/
 **/.DS_Store
+
+# added by MasssiveJuice08 to test cloning the repo and pushing via Git
+public
+private/
+.gitignore
+.obsidian
